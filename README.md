@@ -41,6 +41,6 @@ Le joueur doit reproduire correctement les mots ou phrases proposés par l'appli
 
 Charlie AGBAYAHOUN
 
-## 📌 Projet réalisé dans le cadre de la formation :
+## 📌 Projet réalisé dans le cadre de la formation
 
 OpenClassrooms - Apprenez à programmer avec JavaScript
