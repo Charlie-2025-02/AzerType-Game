@@ -33,9 +33,10 @@ Le joueur doit reproduire correctement les mots ou phrases proposés par l'appli
 - Conditions et boucles
 - Gestion des interactions utilisateur
 
-## 📸 Aperçu
+## 📸 Aperçu AzerType-Game
 
-![AzerType](<img width="1920" height="1003" alt="capture_AzerType" src="https://github.com/user-attachments/assets/90742e28-e040-49ab-b3c8-0bc069ef4190" />)
+<img width="1920" height="1003" alt="capture_AzerType" src="https://github.com/user-attachments/assets/31a860a1-242f-4fdf-ad8b-37f6f851adbd" />
+
 
 ## 👨‍💻 Auteur
 
